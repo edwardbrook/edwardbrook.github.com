@@ -58,7 +58,7 @@ a {
   text-align: center;
   background-color: #159957;
   /*background-image: linear-gradient(120deg, #155799, #159957);*/
-  background-image:url("/rec/img/header.jpg");
+  background-image:url("http://i4.tietuku.com/04f00d81b925ef24.jpg")/*header pic*/;
   }
 
 @media screen and (min-width: 64em) {
