@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LIST>
 	<ARTICLE>
 		<ID>0</ID>
-		<TITLE>test of 0</TITLE>
-		<DATE>2014</DATE>
-		<PERVIEW>hgjmj</PERVIEW>
+		<TITLE>第0篇文章</TITLE>
+		<DATE>unkonwn</DATE>
+		<PERVIEW>为了配合xml的编号规则,文章号从0开始</PERVIEW>
 	</ARTICLE>
 
 	<ARTICLE>
 		<ID>1</ID>
-		<TITLE>test of 1</TITLE>
-		<DATE>2014 6 9</DATE>
-		<PERVIEW>P1</PERVIEW>
+		<TITLE>test for the first</TITLE>
+		<DATE>unknown</DATE>
+		<PERVIEW>仅测试</PERVIEW>
 	</ARTICLE>
 
 	<ARTICLE>
 		<ID>2</ID>
-		<TITLE>TEST OF 2</TITLE>
+		<TITLE>utf8测试</TITLE>
 		<DATE>2015</DATE>
-		<PERVIEW>P2</PERVIEW>
+		<PERVIEW>lalala</PERVIEW>
 	</ARTICLE>
 
 	<ARTICLE>
@@ -30,15 +30,17 @@
 
 	<ARTICLE>
 		<ID>4</ID>
-		<TITLE>TEST OF 4</TITLE>
+		<TITLE>finish</TITLE>
 		<DATE>2015</DATE>
-		<PERVIEW>44444 it is 4</PERVIEW>
+		<PERVIEW>呼,基本功能总算完工了</PERVIEW>
 	</ARTICLE>
 
 	<ARTICLE>
 		<ID>5</ID>
-		<TITLE>TEST OF 5</TITLE>
-		<DATE>2015</DATE>
-		<PERVIEW>P5</PERVIEW>
+		<TITLE>nazo 1-⑨关详解</TITLE>
+		<DATE>6/15/2015</DATE>
+		<PERVIEW>码农为什么要互相伤害(╯°口°)╯(┴—┴
+			&lt;br /&gt;你要享受这个过程,游戏网址:&lt;a href="http://cafebabe.cc/nazo" target="_blank"&gt;http://cafebabe.cc/nazo&lt;/a&gt;
+		</PERVIEW>
 	</ARTICLE>
 </LIST>

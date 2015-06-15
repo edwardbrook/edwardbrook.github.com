@@ -11,7 +11,7 @@ function addarticle(l){
 	var title = x[l].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue;
 	var date = x[l].getElementsByTagName("DATE")[0].childNodes[0].nodeValue;
 	var perview = x[l].getElementsByTagName("PERVIEW")[0].childNodes[0].nodeValue;
-	var inner = "<a href=/p/"+ id + ".html><h2>"+title+"</h2>"+"</a>"+"<p>"+perview+"</p>"+"<div class=\"date\">"+date+"</div>";
+	var inner = "<a href=/rec/p/"+ id + ".html><h2>"+title+"</h2>"+"</a>"+"<p>"+perview+"</p>"+"<div class=\"date\">"+date+"</div>";
 	var container = "<div class = \"perview\" id=a"+l+"></div><hr />";
 	$("#sign").after(container);
 	var s="#a"+l;

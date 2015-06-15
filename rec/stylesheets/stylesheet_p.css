@@ -54,24 +54,27 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
+  text-shadow:1px 1px 1px #000000;
+  color:    #F2F2F2;
   text-align: center;
   background-color: #159957;
   /*background-image: linear-gradient(120deg, #155799, #159957);*/
-  background-image:url("http://i4.tietuku.com/04f00d81b925ef24.jpg")/*header pic*/;
+  background-image:url("http://i4.tietuku.com/2f26d89a2940d20b.jpg");/*header pic*/
+  background-size:cover;
   }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 7.5rem 6rem; } }
+    padding: 6.5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 4.5rem 4rem; } }
+    padding: 3.5rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 3rem 1rem; } }
+    text-shadow:1px 1px 1px #159957;
+    padding: 2rem 1rem; } }
 
 .project-name {
   margin-top: 0;
@@ -79,32 +82,33 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 3.25rem; } }
+    font-size: 3.55rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 2.25rem; } }
+    font-size: 2.55rem; } }
 
 @media screen and (max-width: 42em) {
   .project-name {
-    font-size: 1.75rem; } }
+    text-shadow:1px 1px 1px #159957;
+    font-size: 2.05rem; } }
 
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7; }
+  opacity: 0.8; }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.25rem; } }
+    font-size: 1.55rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
-    font-size: 1.15rem; } }
+    font-size: 1.45rem; } }
 
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1rem; } }
+    font-size: 1.25rem; } }
 
 .main-content :first-child {
   margin-top: 0; }
